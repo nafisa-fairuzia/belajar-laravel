@@ -1,8 +1,8 @@
 # belajar-laravel
 Kesimpulan dari praktikum1 yaitu 
-Instalasi laravel dimulai dengan memastikan sistem sudah memiliki PHP,Composer,dan server database
 
-cara instalasi laravel ada 4 langkah:
+Instalasi laravel dimulai dengan memastikan sistem sudah memiliki PHP,Composer,dan server database. 
+Cara instalasi laravel ada 4 langkah:
 1.Masuk ke Command Prompt
 2.Masuk ke folder XAMPP,di htdocs
 3.Mulai proses instalasi laravel,dengan perintah: 
